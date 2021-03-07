@@ -57,7 +57,7 @@
 <v t="leo.20180115115910.1"><vh>2021</vh>
 <v t="leo.20180423103639.1"><vh>cd2021</vh>
 <v t="leo.20210307174449.1"><vh>@edit 20210304.md</vh></v>
-<v t="leo.20180423103656.1"><vh>@clean 20200813.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit 20210225.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,21 +89,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20180423103656.1">@language md
----
-Title: 2021-協同產品設計實習-stage1-ag4 W1
-Date: 2021-02-25 16:00
-Category: Misc
-Tags: 2021-協同產品設計實習-stage1-ag4 W1
-Slug: 2021-協同產品設計實習-stage1-ag4 W1
-Author: 40823102
----
-第一周進度
-在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-@others</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
