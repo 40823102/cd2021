@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40823102 cd2021 - Misc</title><link href="https://40823102.github.io/cd2021/blog/" rel="alternate"></link><link href="https://40823102.github.io/cd2021/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40823102.github.io/cd2021/blog/</id><updated>2021-03-04T16:00:00+08:00</updated><entry><title>CD2021 課程</title><link href="https://40823102.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-03-04T16:00:00+08:00</published><updated>2021-03-04T16:00:00+08:00</updated><author><name>yen</name></author><id>tag:40823102.github.io,2021-03-04:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><content type="html">&lt;p&gt;第二周進度
 與組員討論組題為倒車入庫，並完成第二周進度繪製零件圖並放入coppeliasim進行色調調整&lt;/p&gt;
+</content><category term="2021FallCD"></category></entry><entry><title>2021-協同產品設計實習-stage1-ag4 W1</title><link href="https://40823102.github.io/cd2021/blog/2021-%E5%8D%94%E5%90%8C%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E5%AF%A6%E7%BF%92-stage1-ag4%20W1.html" rel="alternate"></link><published>2021-02-25T16:00:00+08:00</published><updated>2021-02-25T16:00:00+08:00</updated><author><name>40823102</name></author><id>tag:40823102.github.io,2021-02-25:/cd2021/blog/2021-協同產品設計實習-stage1-ag4 W1.html</id><content type="html">&lt;p&gt;第一周進度
+在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
+</content><category term="2021-協同產品設計實習-stage1-ag4 W1"></category></entry><entry><title>CD2021 課程</title><link href="https://40823102.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-02-24T15:00:00+08:00</published><updated>2021-02-24T15:00:00+08:00</updated><author><name>yen</name></author><id>tag:40823102.github.io,2021-02-24:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><content type="html">&lt;p&gt;第一周進度
+在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
 </content><category term="2021FallCD"></category></entry><entry><title>CD2021 課程</title><link href="https://40823102.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-02-24T15:00:00+08:00</published><updated>2021-02-24T15:00:00+08:00</updated><author><name>yen</name></author><id>tag:40823102.github.io,2021-02-24:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><summary type="html">&lt;p&gt;第一周進度
 在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第一周進度
@@ -17,22 +21,4 @@ Author: yen&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;第二周進度
 與組員討論組題為倒車入庫，並完成第二周進度繪製零件圖並放入coppeliasim進行色調調整&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Fall2021CD"></category></entry><entry><title>CD2021 課程</title><link href="https://40823102.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-02-24T15:00:00+08:00</published><updated>2021-02-24T15:00:00+08:00</updated><author><name>yen</name></author><id>tag:40823102.github.io,2021-02-24:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><summary type="html">&lt;p&gt;第一周進度
-在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第一周進度
-在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
-
-
-&lt;hr&gt;
-&lt;p&gt;Title: CD2021 課程
-Date: 2021-03-04 16:00
-Category: Misc
-Tags: 2021FallCD
-Slug: 2021-Fall-Intro-to-computer-programming
-Author: yen&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;第二周進度
-與組員討論組題為倒車入庫，並完成第二周進度繪製零件圖並放入coppeliasim進行色調調整&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Fall2021CD"></category></entry><entry><title>CD2021 課程</title><link href="https://40823102.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-02-24T15:00:00+08:00</published><updated>2021-02-24T15:00:00+08:00</updated><author><name>yen</name></author><id>tag:40823102.github.io,2021-02-24:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><content type="html">&lt;p&gt;第一周進度
-在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。&lt;/p&gt;
-</content><category term="2021FallCD"></category></entry></feed>
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Fall2021CD"></category></entry></feed>

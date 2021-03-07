@@ -56,9 +56,9 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2021</vh>
 <v t="leo.20180423103639.1"><vh>cd2021</vh>
+<v t="leo.20210307174449.1"><vh>@clean 20210304.md</vh></v>
 <v t="leo.20180423103656.1"><vh>@clean 20200813.md</vh>
 <v t="leo.20210225164913.1"><vh>newHeadline</vh></v>
-<v t="leo.20210307174449.1"><vh>@clean 20210304.md</vh></v>
 </v>
 </v>
 </v>
@@ -93,16 +93,15 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20180423103656.1">@language md
 ---
-Title: CD2021 課程
-Date: 2021-02-24 15:00
+Title: 2021-協同產品設計實習-stage1-ag4 W1
+Date: 2021-02-25 16:00
 Category: Misc
-Tags: Fall2021CD
-Slug: 2021-Fall-Intro-to-computer-programming
-Author: yen
+Tags: 2021-協同產品設計實習-stage1-ag4 W1
+Slug: 2021-協同產品設計實習-stage1-ag4 W1
+Author: 40823102
 ---
 第一周進度
 在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。
-
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
