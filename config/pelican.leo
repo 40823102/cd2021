@@ -56,9 +56,9 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2021</vh>
 <v t="leo.20180423103639.1"><vh>cd2021</vh>
-<v t="leo.20210307174449.1"><vh>@clean 20210304.md</vh></v>
-<v t="leo.20180423103656.1"><vh>@clean 2010224.md</vh>
+<v t="leo.20180423103656.1"><vh>@clean 20200813.md</vh>
 <v t="leo.20210225164913.1"><vh>newHeadline</vh></v>
+<v t="leo.20210307174449.1"><vh>@clean 20210304.md</vh></v>
 </v>
 </v>
 </v>
@@ -96,7 +96,7 @@ g.es("admin pelican Github 執行完畢")
 Title: CD2021 課程
 Date: 2021-02-24 15:00
 Category: Misc
-Tags: 2021FallCD
+Tags: Fall2021CD
 Slug: 2021-Fall-Intro-to-computer-programming
 Author: yen
 ---
