@@ -56,7 +56,8 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2021</vh>
 <v t="leo.20180423103639.1"><vh>cd2021</vh>
-<v t="leo.20180423103656.1"><vh>@clean 20200813.md</vh>
+<v t="leo.20210307174449.1"><vh>@clean 20210304.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@clean 2010224.md</vh>
 <v t="leo.20210225164913.1"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -92,20 +93,39 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20180423103656.1">@language md
 ---
-Title: 2021 Fall CD 課程
-Date: 2020-08-13 11:00
+Title: CD2021 課程
+Date: 2021-02-24 15:00
 Category: Misc
 Tags: 2021FallCD
-Slug: 2020-Fall-Intro-to-computer-programming
+Slug: 2021-Fall-Intro-to-computer-programming
 Author: yen
 ---
+第一周進度
+在github建立cd2021倉儲，並成功架設CD2021網頁及利用Leo Editor編輯pelican.leo 以建立blog網誌。
 
-2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
 @others</t>
 <t tx="leo.20210225164913.1"></t>
+<t tx="leo.20210307174449.1">@language md
+---
+Title: CD2021 課程
+Date: 2021-03-04 16:00
+Category: Misc
+Tags: 2021FallCD
+Slug: 2021-Fall-Intro-to-computer-programming
+Author: yen
+---
+第二周進度
+與組員討論組題為倒車入庫，並完成第二周進度繪製零件圖並放入coppeliasim進行色調調整
+
+
+
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+@others</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
