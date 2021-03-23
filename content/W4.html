@@ -133,23 +133,27 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">W2 << <a href='W2.html'>Previous</a> <a href='W4.html'>Next</a> >> W4<br /><h1>W3</h1>
-<p><span>預定第三週進度:在coppeliasim進行模擬並修爭錯誤</span></p>
-<p><span>預定進度:在coppeliasim進行模擬並修爭錯誤</span></p>
-<p><span>Youtube影片:<a href="https://www.youtube.com/watch?v=RHm0CBf6q1I&amp;list=PLmyJVjVBnKs-Msms7k5CHrzDSrQg07Zav&amp;index=4">2021-協同產品設計實習-cd2021 w3</a></span></p>
-<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/RHm0CBf6q1I" width="550"></iframe></span></p>
-<p><span>分別新增四個軸並先選曲軸再選取對應的車輪Object/Item Translation/Position及Object/Item Rotation/Orientation使兩件方向及位置</span><span></span></p>
-<p><span><img alt="" height="517" src="./../images/軸設定.png" width="1000"/></span></p>
-<p><span><img alt="" height="506" src="./../images/對其.gif" width="1000"/></span></p>
-<p><span>四根軸與車輪設定完成並將被驅動得車輪拖至軸下</span></p>
-<p><span><img alt="" height="548" src="./../images/好.png" width="1000"/></span></p>
-<p><span>遇到問題:發現車子不如預期做動</span></p>
-<p><span><img alt="" height="536" src="./../images/亂動.gif" width="1000"/></span></p>
-<p><span>發現原因車輪和車身不能貼合才可以做動因此將車輪往外移</span></p>
-<p><span>對各軸設定速度並完成做動</span></p>
-<p><span><img alt="" height="489" src="./../images/完成.gif" width="1000"/></span></p>
-<p><span></span></p>
-<br />W2 << <a href='W2.html'>Previous</a> <a href='W4.html'>Next</a> >> W4</div>
+    <div id="tipue_search_content">W3 << <a href='W3.html'>Previous</a> <br /><h1>W4</h1>
+<p><span>第四週預定進度:上台報告</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/0fUVV5MkJgw" width="560"></iframe></span></p>
+<p><span><a href="./../downloads/2021-協同產品設計實習-stage1-ag5.pdf">2021-協同產品設計實習-stage1-ag5報告書</a></span></p>
+<p><span><a href="https://www.youtube.com/playlist?list=PLmyJVjVBnKs-Msms7k5CHrzDSrQg07Zav">2021-協同產品設計實習-stage1-ag5影片</a></span></p>
+<p><span><a href="https://drive.google.com/file/d/1MJnRUtIS7zlFRvfPcqDf4guq8tswIFf8/view?usp=sharing">各組簡報所花費的時間</a></span></p>
+<p><span><img alt="" height="801" src="./../images/1616486983398.jpg" width="200"/></span></p>
+<p><span>討論</span></p>
+<p><span>若檔案數較大應如何若檔案數較大應如何計算各組花費時間?</span></p>
+<p><span>除了手動逐一計算外，透過參考文獻我們發現可用ffprobe來使用外部指令，也就是從FFmpeg Wiki運行以下命令</span></p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">import subprocess
+
+def get_length(filename):
+    result = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
+                             "format=duration", "-of",
+                             "default=noprint_wrappers=1:nokey=1", filename],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT)
+    return float(result.stdout)</pre>
+<p><span>也可以-printm_format json與-show_streams json一起使用</span></p>
+<p><span>參考資料:<a href="https://stackoverflow.com/questions/3844430/how-to-get-the-duration-of-a-video-in-python">https://stackoverflow.com/questions/3844430/how-to-get-the-duration-of-a-video-in-python</a></span></p><br />W3 << <a href='W3.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
