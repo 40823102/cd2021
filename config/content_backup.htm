@@ -42,4 +42,31 @@
 <p><span>對各軸設定速度並完成做動</span></p>
 <p><span><img alt="" height="489" src="/images/完成.gif" width="1000"/></span></p>
 <p><span></span></p>
-<h2><span>W4</span></h2>
+<h2>W4</h2>
+<p><span>第四週預定進度:上台報告</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/0fUVV5MkJgw" width="560"></iframe></span></p>
+<p><span><a href="/downloads/2021-協同產品設計實習-stage1-ag5.pdf">2021-協同產品設計實習-stage1-ag5報告書</a></span></p>
+<p><span><a href="https://www.youtube.com/playlist?list=PLmyJVjVBnKs-Msms7k5CHrzDSrQg07Zav">2021-協同產品設計實習-stage1-ag5影片</a></span></p>
+<p><span><a href="https://drive.google.com/file/d/1MJnRUtIS7zlFRvfPcqDf4guq8tswIFf8/view?usp=sharing">各組簡報所花費的時間</a></span></p>
+<p><span><img alt="" height="801" src="/images/1616486983398.jpg" width="200"/></span></p>
+<p><span>討論</span></p>
+<p><span>若檔案數較大應如何若檔案數較大應如何計算各組花費時間?</span></p>
+<p><span>除了手動逐一計算外，透過參考文獻我們發現可用ffprobe來使用外部指令，也就是從FFmpeg Wiki運行以下命令</span></p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">import subprocess
+
+def get_length(filename):
+    result = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
+                             "format=duration", "-of",
+                             "default=noprint_wrappers=1:nokey=1", filename],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT)
+    return float(result.stdout)</pre>
+<p><span>也可以-printm_format json與-show_streams json一起使用</span></p>
+<p><span>參考資料:<a href="https://stackoverflow.com/questions/3844430/how-to-get-the-duration-of-a-video-in-python">https://stackoverflow.com/questions/3844430/how-to-get-the-duration-of-a-video-in-python</a></span></p>
+<p><span></span></p>
+<h1>Stage2</h1>
+<h2>W5</h2>
+<p>這次Stage2的專案，我們討論並決定以Stage1-18未完成的排球扣球練習器改良；原本的主體只有單一的骨架與球軌，我們將改良成雙向作動與作動時間長的機構，讓排球可以順利滑動增加投球效率；並改良夾持的機構，改良成讓球在經圓盤的週期滾動，在球與圓盤的空洞重合後自動掉落</p>
+<p><span>原Stage1-18做動</span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/rRnF_fOaT9o" width="500"></iframe></p>
+<p></p>
