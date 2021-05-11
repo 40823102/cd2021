@@ -18,15 +18,9 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>封面投影片</vh>
-<v t="leo.20210308212753.1"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20200818170535.1"><vh>動機</vh>
-<v t="leo.20210308213634.1"><vh>動機內容</vh></v>
-</v>
-<v t="leo.20200818170636.1"><vh>目錄</vh>
-<v t="leo.20200818170909.1"><vh>目錄內容</vh></v>
-</v>
+<v t="leo.20200818170328.1"><vh>封面投影片</vh></v>
+<v t="leo.20200818170535.1"><vh>動機</vh></v>
+<v t="leo.20200818170636.1"><vh>目錄</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -209,14 +203,21 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
+<t tx="leo.20200818170328.1">&lt;section&gt;
+
+&lt;/a&gt;
+    &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
+    
+    &lt;p&gt;專題題目:停車場&lt;/p&gt;
+        &lt;a href="https://github.com/40823102/stage3-ag2"&gt;repo&lt;/a&gt;
+    &lt;a href="https://40823102.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
+        
+                    劉怡萱
+                    &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+                  
+    &lt;/p&gt;
 &lt;/section&gt;
 
-
-						
 </t>
 <t tx="leo.20200818170535.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -244,13 +245,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">各週進度
-
-第二週 繪製零件圖並放入coppeliasim進行色調調整
-
-第三周 在coppeliasim進行模擬並修爭錯誤
-
-第四週 報告</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -636,17 +630,5 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210308212753.1">2021-協同產品設計實習-stage1-ag4
-
-專題題目:倒車入庫
-
-組員
-
-[40823102劉怡萱](https://40823102.github.io/cd2021/content/index.html)
-[40823106廖苡雯](https://40823106.github.io/cd2021/content/index.html)</t>
-<t tx="leo.20210308213634.1">專題動機
-
-由於某段時間出門都遇到下雨因此產生想學開車的想法，就可以避免走在路上鞋子濕掉或要穿脫雨衣很麻煩.等問題，卻也聽到很多會開車的人都表示倒車入庫是學開車過程中最難的，因此我們的專題題目選定設計車子倒車入庫！
-</t>
 </tnodes>
 </leo_file>
