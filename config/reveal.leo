@@ -19,7 +19,15 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>封面投影片</vh></v>
-<v t="leo.20200818170535.1"><vh>動機</vh></v>
+<v t="leo.20200818170535.1"><vh>W11工作項目</vh>
+<v t="leo.20210511211358.1"><vh>創建小組倉儲</vh></v>
+<v t="leo.20210511212916.1"><vh>setting</vh></v>
+<v t="leo.20210511213132.1"><vh>討論專題</vh></v>
+<v t="leo.20210511213623.1"><vh>參考資料</vh></v>
+<v t="leo.20210511213859.1"><vh>參考資料</vh></v>
+<v t="leo.20210511214131.1"><vh>參考資料</vh></v>
+<v t="leo.20210511214205.1"><vh>我的想法</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>目錄</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
@@ -209,24 +217,23 @@ vertical: body pane on the botton</t>
     &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
     
     &lt;p&gt;專題題目:停車場&lt;/p&gt;
-        &lt;a href="https://github.com/40823102/stage3-ag2"&gt;repo&lt;/a&gt;
+      小組  &lt;a href="https://github.com/40823102/stage3-ag2"&gt;repo&lt;/a&gt;
     &lt;a href="https://40823102.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
         
-                    劉怡萱
+                    
                     &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
                   
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
+<t tx="leo.20200818170535.1">&lt;section&gt;
+    &lt;h2&gt;W11&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;學習協統小組網頁&lt;/p&gt;
+&lt;p&gt;討論專題題目及方向&lt;/p&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
-
-
-						
 </t>
 <t tx="leo.20200818170636.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -630,5 +637,60 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210511211358.1">&lt;section&gt;
+    &lt;h2&gt;學習協統小組網頁&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="https://drive.google.com/file/d/1aUo9-qRLZO6EWam3PQ2VB04QBlS9gqQj/view?usp=sharing"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;創建小組倉儲&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511212916.1">&lt;section&gt;
+    &lt;h2&gt;學習協統小組網頁&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="https://drive.google.com/file/d/1h27LT03gT3KrhPOyPDwA7YrGcQ_XYqtf/view?usp=sharing"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;在設定中的管理加其他組員為合作者&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511213132.1">&lt;section&gt;
+    &lt;h2&gt;討論專題題目及方向&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;在小組討論後大家決定這次stage3主題為停車場，目標是設計兩層樓的停車場，並設計如何設計機構使車子上下樓，並訂定在5/24前大家可以想設計並進行畫圖。&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511213623.1">&lt;section&gt;
+&lt;h2&gt;參考資料&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="https://s.yimg.com/zp/MerchandiseImages/2D1001B524-SP-8257677.jpg"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;摩天輪停車塔&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511213859.1">&lt;section&gt;
+&lt;h2&gt;參考資料&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="https://media.karousell.com/media/photos/products/2015/04/06/_1428316629_f47a0224.jpg"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;電梯、斜坡下樓停車塔&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511214131.1">&lt;section&gt;
+&lt;h2&gt;參考資料&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img caption="false" height="531" src="https://i.ytimg.com/vi/BpwRyQHqZyQ/maxresdefault.jpg"/&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;企鵝爬樓梯&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210511214205.1">&lt;section&gt;
+    &lt;h2&gt;我的想法&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;上樓方式:電梯、階梯&lt;/p&gt;
+&lt;p&gt;下樓方式:電梯、滑道&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
