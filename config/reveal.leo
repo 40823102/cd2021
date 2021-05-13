@@ -235,14 +235,13 @@ vertical: body pane on the botton</t>
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170636.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;W12&lt;/h2&gt;
+    &lt;p&gt;
+&lt;p&gt;討論整合機構想法&lt;/p&gt;
+&lt;p&gt;實際繪圖&lt;/p&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
-
-
-						
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
     &lt;h2&gt;Slides&lt;/h2&gt;
