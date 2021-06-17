@@ -28,7 +28,9 @@
 <v t="leo.20210511214131.1"><vh>參考資料</vh></v>
 <v t="leo.20210511214205.1"><vh>我的想法</vh></v>
 </v>
-<v t="leo.20200818170636.1"><vh>目錄</vh></v>
+<v t="leo.20200818170636.1"><vh>目錄</vh>
+<v t="leo.20210617125913.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
@@ -214,14 +216,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
 
 &lt;/a&gt;
-    &lt;h3&gt;2021-協同產品設計實習-stage3-ag2&lt;/h3&gt;
+    &lt;h3&gt;2021-協同產品設計實習CD2021&lt;/h3&gt;
     
-    &lt;p&gt;專題題目:停車場&lt;/p&gt;
-      小組  &lt;a href="https://github.com/40823102/stage3-ag2"&gt;repo&lt;/a&gt;
-    &lt;a href="https://40823102.github.io/stage3-ag2/content/index.html"&gt;site&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Created by 劉怡萱40823102&lt;/p&gt;
+      site  &lt;a href="https://40823102.github.io/cd2021/"&gt;repo&lt;/a&gt;
+    &lt;a href="https://github.com/40823102/cd2021"&gt;
         
                     
-                    &lt;a href="https://40823102.github.io/cd2021/content/index.html"&gt;40823102劉怡萱&lt;/a&gt;&lt;/p&gt;
+           
                   
     &lt;/p&gt;
 &lt;/section&gt;
@@ -692,5 +694,6 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210617125913.1"></t>
 </tnodes>
 </leo_file>
